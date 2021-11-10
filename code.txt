@@ -6,7 +6,12 @@ Cake Recipe:
 1)
 
 Soup Recipe:
-1)
+1) Add Water
+2) Add Salt
+3) Add Potatoes
+4) Add Other Veggies
+5) Add Meat
+6) Cook
 
 Meat Dish:
 1)
