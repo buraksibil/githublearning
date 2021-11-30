@@ -3,11 +3,12 @@
 Recipe Book
 
 Cake Recipe:
+
 1) Add Flour
 2) Add Sugar
 3) Add Butter
 4) Crack Eggs
-5) Add Milk
+5) Add Milk & Water
 6) Mix Together
 7) Put in Tray
 8) Put in Oven
@@ -15,7 +16,12 @@ Cake Recipe:
 10) Serve
 
 Soup Recipe:
-1)
+1) Add Water
+2) Add Salt
+3) Add Potatoes
+4) Add Other Veggies
+5) Add Meat
+6) Cook
 
 Meat Dish:
 1)
