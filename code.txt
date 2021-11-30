@@ -3,7 +3,16 @@
 Recipe Book
 
 Cake Recipe:
-1)
+1) Add Flour
+2) Add Sugar
+3) Add Butter
+4) Crack Eggs
+5) Add Milk
+6) Mix Together
+7) Put in Tray
+8) Put in Oven
+9) Wait 15 Minutes
+10) Serve
 
 Soup Recipe:
 1)
